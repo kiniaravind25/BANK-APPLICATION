@@ -1,2 +1,7 @@
 # BANK-APPLICATION
-Java backend Project for Bank Application
+
+Java backend project for a Bank Application where users can:
+- Add an account
+- Deposit amount
+- Withdraw amount
+- Delete their account
